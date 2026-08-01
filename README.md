@@ -103,9 +103,3 @@ streamlit run app.py
 ```
 
 ---
-
-## Author
-
-Customer Segmentation Project using K-Means Clustering
-
-Developed as an academic data science project using Python and Streamlit.
